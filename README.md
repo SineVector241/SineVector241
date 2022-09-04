@@ -9,4 +9,4 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
 - 😄 Pronouns: He/Him
 
 Languages I know/work with
-[![Languages I know/work with](https://skills.thijs.gg/icons?i=cs,java,nodejs,figma&theme=light)](https://skills.thijs.gg)
+[![Languages I know/work with](https://skills.thijs.gg/icons?i=cs,java,nodejs,figma&theme=light)](https://skills.thijs.gg)  

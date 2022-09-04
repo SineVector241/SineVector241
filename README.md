@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **SineVector241** or just *sine* or *vector* for short. I develop a few things and am usually spend my time helping out with other people
+I am **SineVector241** or just *sine* or *vector* for short. I develop a few things and am usually spending my time helping out other people
 
 - 🔭 I’m currently working on NBT reading/writing as well as plugins for bridge. addon
 - 🌱 I’m currently learning C# and making software/bots with it.

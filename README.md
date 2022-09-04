@@ -28,4 +28,4 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
 - ❗Discord: SineѶeҀҬOӶ⒉⓸⎤ᚙ▟ ▞╸#0241
 
 ## Current Projects
-https://github.com/SineVector241/PixelPerfectBot
+![](https://opengraph.githubassets.com/f28a0163afaa76be7ed79a675199518b1b5bfec9d0bfb02b913362d057a2e051/SineVector241/BridgePlugins)

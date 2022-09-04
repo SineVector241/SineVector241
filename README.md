@@ -29,13 +29,13 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
 
 ## Current Projects
 <a align="center" href="https://github.com/SineVector241/BridgePlugins">
-  <img style="border-radius=5px;" align="center" src="https://opengraph.githubassets.com/1/SineVector241/BridgePlugins" width="350px"/>
+  <img style="border-radius: 5px;" align="center" src="https://opengraph.githubassets.com/1/SineVector241/BridgePlugins" width="350px"/>
 </a>
 <a align="center" href="https://github.com/SineVector241/NBTRead-Write-Test">
-  <img style="border-radius=5px;" align="center" src="https://opengraph.githubassets.com/1/SineVector241/NBTRead-Write-Test" width="350px"/>
+  <img style="border-radius: 5px;" align="center" src="https://opengraph.githubassets.com/1/SineVector241/NBTRead-Write-Test" width="350px"/>
 </a>
 <a align="center" href="https://github.com/SineVector241/PixelPerfectBot">
-  <img style="border-radius=5px;" align="center" src="https://opengraph.githubassets.com/1/SineVector241/PixelPerfectBot" width="350px"/>
+  <img style="border-radius: 5px;" align="center" src="https://opengraph.githubassets.com/1/SineVector241/PixelPerfectBot" width="350px"/>
 </a>
 
 ## Github Statistics

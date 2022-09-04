@@ -10,12 +10,12 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
 
 Languages I know/work with
 
-[![Languages I know/work with](https://skills.thijs.gg/icons?i=cs,dotnet,java,nodejs,js,ts,py,css,html,vue,bash&theme=light)](https://skills.thijs.gg)
+[![Languages I know/work with](https://skills.thijs.gg/icons?i=cs,dotnet,java,nodejs,js,ts,py,css,html,vue,bash)](https://skills.thijs.gg)
 
 Services that I know
 
-[![Services I know](https://skills.thijs.gg/icons?i=mysql,sqlite,discord,azure&theme=light)](https://skills.thijs.gg)
+[![Services I know](https://skills.thijs.gg/icons?i=mysql,sqlite,discord,azure)](https://skills.thijs.gg)
 
 Software I use
 
-[![Software I use](https://skills.thijs.gg/icons?i=visualstudio,vscode,blender,unity&theme=light)](https://skills.thijs.gg)
+[![Software I use](https://skills.thijs.gg/icons?i=visualstudio,vscode,blender,unity)](https://skills.thijs.gg)

@@ -28,8 +28,10 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
 - ❗Discord: SineѶeҀҬOӶ⒉⓸⎤ᚙ▟ ▞╸#0241
 
 ## Current Projects
-![](https://opengraph.githubassets.com/f28a0163afaa76be7ed79a675199518b1b5bfec9d0bfb02b913362d057a2e051/SineVector241/BridgePlugins)
+<a align="center" href="https://github.com/SineVector241/BridgePlugins">
+  <img align="center" src="https://opengraph.githubassets.com/f28a0163afaa76be7ed79a675199518b1b5bfec9d0bfb02b913362d057a2e051/SineVector241/BridgePlugins" width="350px"/>
+</a>
 
 ## Github Statistics
-![](https://raw.githubusercontent.com/SineVector241/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/SineVector241/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SineVector241/GithubStatistics/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SineVector241/GithubStatistics/master/generated/languages.svg#gh-dark-mode-only)

@@ -19,3 +19,6 @@ Services that I know
 Software I use
 
 [![Software I use](https://skills.thijs.gg/icons?i=visualstudio,vscode,blender,unity)](https://skills.thijs.gg)
+
+---
+---

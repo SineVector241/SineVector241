@@ -9,4 +9,4 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
 - 😄 Pronouns: He/Him
 
 Languages I know/work with
-[![Languages I know/work with](https://cdn-icons-png.flaticon.com/512/6132/6132221.png)]
+[![Languages I know/work with](https://cdn-icons-png.flaticon.com/512/6132/6132221.png,512/5968/5968350.png)](https://cdn-icons-png.flaticon.com)

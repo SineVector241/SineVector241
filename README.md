@@ -28,3 +28,4 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
 - ❗Discord: SineѶeҀҬOӶ⒉⓸⎤ᚙ▟ ▞╸#0241
 
 ## Current Projects
+https://github.com/SineVector241/PixelPerfectBot

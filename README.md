@@ -23,7 +23,7 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
 ---
 ### Personal
 - 🗺️Location: Australia/Tasmania
-- 🏢College student studying Certificate III in IT, Math Methods III and Digital Application II
+- 🏢College Graduate: Certificate III in IT, Math Methods III and Digital Application II
 - 🎮Hobby's: Coding, Software Development, Bot Development, Playing Games, Tennis, Making Videos
 - ❗Discord: SineѶeҀҬOӶ⒉⓸⎤ᚙ▟ ▞╸#0241
 
@@ -32,7 +32,7 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
   <img align="center" src="https://opengraph.githubassets.com/1/SineVector241/BridgePlugins" width="350px"/>
 </a>
 <a align="center" href="https://github.com/SineVector241/NBTRead-Write-Test">
-  <img align="center" src="https://opengraph.githubassets.com/1/SineVector241/NBTRead-Write-Test" width="350px"/>
+  <img align="center" src="https://opengraph.githubassets.com/1/SineVector241/VoiceCraft-MCBE_Proximity_Chat" width="350px"/>
 </a>
 <a align="center" href="https://github.com/SineVector241/PixelPerfectBot">
   <img align="center" src="https://opengraph.githubassets.com/1/SineVector241/PixelPerfectBot" width="350px"/>

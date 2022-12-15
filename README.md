@@ -31,7 +31,7 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
 <a align="center" href="https://github.com/SineVector241/BridgePlugins">
   <img align="center" src="https://opengraph.githubassets.com/1/SineVector241/BridgePlugins" width="350px"/>
 </a>
-<a align="center" href="https://github.com/SineVector241/NBTRead-Write-Test">
+<a align="center" href="https://github.com/SineVector241/VoiceCraft-MCBE_Proximity_Chat">
   <img align="center" src="https://opengraph.githubassets.com/1/SineVector241/VoiceCraft-MCBE_Proximity_Chat" width="350px"/>
 </a>
 <a align="center" href="https://github.com/SineVector241/PixelPerfectBot">

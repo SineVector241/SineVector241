@@ -43,4 +43,4 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
 ![](https://raw.githubusercontent.com/SineVector241/GithubStatistics/master/generated/languages.svg#gh-dark-mode-only)
 
 ## Discord Profile
-[![Discord Presence](https://lanyard.cnrad.dev/api/550912080627236874?theme=light)](https://discord.com/users/550912080627236874)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/550912080627236874?theme=dark&bg=235a6f&hideDiscrim=true)](https://discord.com/users/550912080627236874)

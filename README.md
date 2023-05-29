@@ -41,3 +41,6 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
 ## Github Statistics
 ![](https://raw.githubusercontent.com/SineVector241/GithubStatistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SineVector241/GithubStatistics/master/generated/languages.svg#gh-dark-mode-only)
+
+## Discord Profile
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:550912080627236874)

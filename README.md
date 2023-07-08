@@ -44,3 +44,6 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
 
 ## Discord Profile
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/550912080627236874?theme=dark&bg=235a6f&hideDiscrim=true)](https://discord.com/users/550912080627236874)
+
+## Kofi
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z0MLA2P)

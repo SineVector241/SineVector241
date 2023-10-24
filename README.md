@@ -2,10 +2,9 @@
 
 I am **SineVector241** or just *sine* or *vector* for short. I develop a few things and am usually spending my time helping out other people
 
-- 🔭 I’m currently working on NBT reading/writing as well as plugins for bridge. addon
+- 🔭 I’m currently working on a bedrock replay proxy.
 - 🌱 I’m currently learning C# and making software/bots with it.
 - 🤔 I’m looking for help with reverse engineering and C++ with minhook library for MCBE stuff
-
 - 😄 Pronouns: He/Him
 
 ## Languages I know/work with
@@ -25,7 +24,8 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
 - 🗺️Location: Australia/Tasmania
 - 🏢College Graduate: Certificate III in IT, Math Methods III and Digital Application II
 - 🎮Hobby's: Coding, Software Development, Bot Development, Playing Games, Tennis, Making Videos
-- ❗Discord: SineѶeҀҬOӶ⒉⓸⎤ᚙ▟ ▞╸#0241
+- ❗Discord:svector
+- 💼 Employment: Unemployed
 
 ## Current Projects
 <a align="center" href="https://github.com/SineVector241/VoiceCraft-MCBE_ProximityChat_Addon">

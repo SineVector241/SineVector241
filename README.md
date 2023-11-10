@@ -48,4 +48,4 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
 ## Links
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z0MLA2P)
 
-![Discord Shield](https://discordapp.com/api/guilds/847396393068265472/widget.png?style=shield)
+[![Discord Shield](https://discordapp.com/api/guilds/847396393068265472/widget.png?style=shield)](https://discord.gg/fJGsRY5hh9)

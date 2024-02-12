@@ -40,6 +40,9 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
 <a align="center" href="https://github.com/SineVector241/BedrockReplay">
   <img align="center" src="https://opengraph.githubassets.com/1/SineVector241/BedrockReplay" width="350px"/>
 </a>
+<a align="center" href="https://github.com/SineVector241/SharpVE">
+  <img align="center" src="https://opengraph.githubassets.com/1/SineVector241/SharpVE" width="350px"/>
+</a>
 
 ## Github Statistics
 ![](https://raw.githubusercontent.com/SineVector241/GithubStatistics/master/generated/overview.svg#gh-dark-mode-only)

@@ -9,15 +9,15 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
 
 ### Languages I know/work with
 
-[![Languages I know/work with](https://skills.thijs.gg/icons?i=cs,dotnet,java,nodejs,js,ts,py,css,html,vue,bash)](https://skills.thijs.gg)
+[![Languages I know/work with](https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,js,ts,py,css,html,vue,bash)](https://skillicons.dev)
 
 ### Services I know
 
-[![Services I know](https://skills.thijs.gg/icons?i=mysql,sqlite,discord,azure)](https://skills.thijs.gg)
+[![Services I know](https://skillicons.dev/icons?i=mysql,sqlite,discord,azure)](https://skillicons.dev)
 
 ### Software I use
 
-[![Software I use](https://skills.thijs.gg/icons?i=visualstudio,vscode,blender,unity)](https://skills.thijs.gg)
+[![Software I use](https://skillicons.dev/icons?i=visualstudio,vscode,blender,unity)](https://skillicons.dev)
 
 ---
 ### Personal

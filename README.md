@@ -17,12 +17,13 @@ I am **SineVector241** or just *sine* or *vector* for short. I develop a few thi
 
 ### Software I use
 
-[![Software I use](https://skillicons.dev/icons?i=visualstudio,vscode,blender,unity)](https://skillicons.dev)
+[![Software I use](https://skillicons.dev/icons?i=visualstudio,vscode,blender,unity,rider)](https://skillicons.dev)
 
 ---
 ### Personal
 - 🗺️Location: Australia/Tasmania
 - 🏢College Graduate: Certificate III in IT, Math Methods III and Digital Application II
+- 🏛️UTAS Graduate: Diploma of ICT Professional Practice
 - 🎮Hobby's: Coding, Software Development, Bot Development, Playing Games, Tennis, Making Videos
 - ❗Discord:svector
 - 💼 Employment: Unemployed
